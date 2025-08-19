@@ -1,9 +1,6 @@
 ### MEESHO SCRIPTED BY HER - TEAM CODEHERS : VYAPYAAR AI 
 - Sakshi Singh A    - Aditi Hotti   - Vanshika Bhojani 
 
-Deployed link :
-PPT link :
-Prototype demo video link : 
 
 --------------------------------------------------------------------------------------------------------------
 ### 🧠 How It Works
